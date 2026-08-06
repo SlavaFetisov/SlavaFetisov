@@ -3,7 +3,21 @@
   <h3>QA Automation Engineer (Java)</h3>
 </div>
 
-### 🛠 Стек технологий:
+### 📫 About Me:
+
+<p>
+  <a href="mailto:Fetisov.VN@mail.ru">
+    <img src="https://img.shields.io/badge/📧_Email-Fetisov.VN%40mail.ru-blue" alt="Email">
+  </a>
+  <a href="https://t.me/FetisovSlava">
+    <img src="https://img.shields.io/badge/💬_Telegram-%40FetisovSlava-blue" alt="Telegram">
+  </a>
+  <a href="https://github.com/SlavaFetisov">
+    <img src="https://img.shields.io/badge/🐙_GitHub-SlavaFetisov-blue" alt="GitHub">
+  </a>
+</p>
+
+### 🛠 TOOLS:
 
 <p align="center">
   <a href="https://www.jetbrains.com/idea/"><img width="6%" title="IntelliJ IDEA" src="media/logo/Intelij_IDEA.svg"></a>
