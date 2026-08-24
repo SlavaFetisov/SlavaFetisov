@@ -42,8 +42,7 @@
 ### :star: Проект UI автоматизации сайта 
 
 
-### :bangbang: Проект API автоматизации  сервиса [Reqres.in](https://reqres.in/)
-[Api_Tests](https://github.com/SlavaFetisov/Fetisov_Diplom_API)
+### :bangbang: Проект API автоматизации  сервиса [Reqres.in](https://reqres.in/)  [Api_Tests](https://github.com/SlavaFetisov/Fetisov_Diplom_API)
 
   
 </p>
