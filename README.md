@@ -41,7 +41,8 @@
 
 
 ### :bangbang: Проект API автоматизации  сервиса [Reqres.in](https://reqres.in/)  
-[![Api_Tests](https://github.com/SlavaFetisov/Fetisov_Diplom_API/edit/main/README.md)](https://github.com/SlavaFetisov/Fetisov_Diplom_API)
+https://github.com/SlavaFetisov/Fetisov_Diplom_API/blob/main/README.md
+![][Api_Tests](https://github.com/SlavaFetisov/Fetisov_Diplom_API/edit/main/README.md)(https://github.com/SlavaFetisov/Fetisov_Diplom_API)
 
 ### Моя статистика:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlavaFetisov&theme=algolia)
