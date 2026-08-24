@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=191970&random=false&width=435&lines=My+name+is+Slava%2C+I'm+QA+Automation+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=696969&random=false&width=435&lines=My+name+is+Slava%2C+I'm+QA+engineer)](https://git.io/typing-svg)
 
 ### 📫 About Me:
 
