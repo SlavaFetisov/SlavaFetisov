@@ -1,8 +1,5 @@
-## Hi there, I'm Slava 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC0CB&random=false&width=435&lines=My+name+is+Slava%2C+I'm+QA+engineer)](https://git.io/typing-svg)
-<div align="center">
-  <h3>QA Automation Engineer (Java)</h3>
-</div>
+## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=191970&random=false&width=435&lines=My+name+is+Slava%2C+I'm+QA+Automation+engineer)](https://git.io/typing-svg)
 
 ### 📫 About Me:
 
