@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Slava 👋
 <div align="center">
   <h3>QA Automation Engineer (Java)</h3>
 </div>
@@ -31,7 +31,15 @@
   <a href="https://github.com/"><img width="6%" title="GitHub" src="media/logo/GitHub.svg"></a>
   <a href="https://www.jenkins.io/"><img width="6%" title="Jenkins" src="media/logo/Jenkins.svg"></a>
   <a href="https://telegram.org/"><img width="6%" title="Telegram" src="media/logo/Telegram.svg"></a>
-  <a href="https://www.atlassian.com/software/jira"><img width="5%" title="Jira" src="media/logo/Jira.svg"></a>
+  <a href="https://www.atlassian.com/software/jira"><img width="5%" title="Jira" src="media/logo/Jira.svg"></a>### Мои проекты по автоматизации тестирования на Java :mortar_board:
+
+### :star: Проект UI автоматизации сайта 
+
+
+### :bangbang: Проект API автоматизации  сервиса [Reqres.in](https://reqres.in/)
+(https://github.com/SlavaFetisov/Fetisov_Diplom_API))
+
+  
 </p>
 <!--
 **SlavaFetisov/SlavaFetisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
