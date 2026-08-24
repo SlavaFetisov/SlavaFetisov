@@ -44,7 +44,10 @@
 
 ### :bangbang: Проект API автоматизации  сервиса [Reqres.in](https://reqres.in/)  [Api_Tests](https://github.com/SlavaFetisov/Fetisov_Diplom_API)
 
-  
+### Моя статистика:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlavaFetisov&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlavaFetisov&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlavaFetisov&theme=algolia)  
 </p>
 <!--
 **SlavaFetisov/SlavaFetisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
