@@ -35,12 +35,15 @@
   
  
 ### Мои проекты по автоматизации тестирования на Java :mortar_board:
+<p align="center">  
+ <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
+</p>
 
 ### :star: Проект UI автоматизации сайта 
 
 
 ### :bangbang: Проект API автоматизации  сервиса [Reqres.in](https://reqres.in/)
-[Reqres.in](https://github.com/SlavaFetisov/Fetisov_Diplom_API))
+[Api_Tests](https://github.com/SlavaFetisov/Fetisov_Diplom_API)
 
   
 </p>
