@@ -39,8 +39,8 @@
 
 | Project name | GitHub links |
 |--------------|--------------|
-|### :star: Проект UI автоматизации сайта | https://github.com/SlavaFetisov/Fetisov_Diplom_UI |
-|### :bangbang: Проект API автоматизации  | https://github.com/SlavaFetisov/Fetisov_Diplom_API|
+|:star: Проект UI автоматизации сайта | https://github.com/SlavaFetisov/Fetisov_Diplom_UI |
+|:bangbang: Проект API автоматизации  | https://github.com/SlavaFetisov/Fetisov_Diplom_API|
 
 ### Моя статистика:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlavaFetisov&theme=algolia)
