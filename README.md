@@ -36,8 +36,9 @@
 <p align="center">  
  <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
 </p>
-|                 Project name            |                  GitHub links                     |
-|-----------------------------------------|---------------------------------------------------|
+
+| Project name | GitHub links |
+|--------------|--------------|
 |### :star: Проект UI автоматизации сайта | https://github.com/SlavaFetisov/Fetisov_Diplom_UI |
 |### :bangbang: Проект API автоматизации  | https://github.com/SlavaFetisov/Fetisov_Diplom_API|
 
