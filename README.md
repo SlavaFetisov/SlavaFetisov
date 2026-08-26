@@ -36,13 +36,10 @@
 <p align="center">  
  <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
 </p>
-
-### :star: Проект UI автоматизации сайта 
-
-
-### :bangbang: Проект API автоматизации  сервиса [Reqres.in](https://reqres.in/)  
-https://github.com/SlavaFetisov/Fetisov_Diplom_API/blob/main/README.md
-[![Api_Tests](https://github.com/SlavaFetisov/Fetisov_Diplom_API/edit/main/README.md) 
+|                 Project name            |                  GitHub links                     |
+|-----------------------------------------|---------------------------------------------------|
+|### :star: Проект UI автоматизации сайта | https://github.com/SlavaFetisov/Fetisov_Diplom_UI |
+|### :bangbang: Проект API автоматизации  | https://github.com/SlavaFetisov/Fetisov_Diplom_API|
 
 ### Моя статистика:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlavaFetisov&theme=algolia)
