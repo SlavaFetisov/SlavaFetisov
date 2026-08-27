@@ -39,7 +39,7 @@
 
 | Project name | GitHub links |
 |--------------|--------------|
-|:star: Проект UI автоматизации сайта | https://github.com/SlavaFetisov/Fetisov_Diplom_UI |
+|:star: Проект UI автоматизации сайта | https://github.com/SlavaFetisov/Fetisov_Diplom |
 |:bangbang: Проект API автоматизации  | https://github.com/SlavaFetisov/Fetisov_Diplom_API|
 
 ### Моя статистика:
